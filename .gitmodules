@@ -1,0 +1,4 @@
+[submodule "cleo.web"]
+	path = cleo.web
+	url = git@github.com:darwinapps/cleo.web.wiki.git
+	branch = master
