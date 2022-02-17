@@ -70,10 +70,6 @@
 	path = metricseurope.web
 	url = git@github.com:darwinapps/metricseurope.web.wiki.git
 	branch = master
-[submodule "numo.web"]
-	path = numo.web
-	url = git@github.com:darwinapps/numo.web.wiki.git
-	branch = master
 [submodule "social-api"]
 	path = social-api
 	url = git@github.com:darwinapps/social-api.wiki.git
