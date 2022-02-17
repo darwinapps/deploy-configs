@@ -14,3 +14,7 @@
 	path = abcfitness.web
 	url = git@github.com:darwinapps/abcfitness.web.wiki.git
 	branch = master
+[submodule "bennie-blog.web"]
+	path = bennie-blog.web
+	url = git@github.com:darwinapps/bennie-blog.web.wiki.git
+	branch = master
