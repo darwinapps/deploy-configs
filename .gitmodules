@@ -2,3 +2,7 @@
 	path = cleo.web
 	url = git@github.com:darwinapps/cleo.web.wiki.git
 	branch = master
+[submodule "35711-static.web"]
+	path = 35711-static.web
+	url = git@github.com:darwinapps/35711-static.web.wiki.git
+	branch = master
