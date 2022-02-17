@@ -114,3 +114,7 @@
 	path = zeplin.web
 	url = git@github.com:darwinapps/zeplin.web.wiki.git
 	branch = master
+[submodule "numo.web"]
+	path = numo.web
+	url = git@github.com:darwinapps/numo-v2.web.wiki.git
+	branch = master
