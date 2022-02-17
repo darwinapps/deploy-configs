@@ -6,3 +6,7 @@
 	path = 35711-static.web
 	url = git@github.com:darwinapps/35711-static.web.wiki.git
 	branch = master
+[submodule "35711.web"]
+	path = 35711.web
+	url = git@github.com:darwinapps/35711.web.wiki.git
+	branch = master
