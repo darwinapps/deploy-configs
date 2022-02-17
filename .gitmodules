@@ -10,3 +10,7 @@
 	path = 35711.web
 	url = git@github.com:darwinapps/35711.web.wiki.git
 	branch = master
+[submodule "abcfitness.web"]
+	path = abcfitness.web
+	url = git@github.com:darwinapps/abcfitness.web.wiki.git
+	branch = master
