@@ -18,3 +18,103 @@
 	path = bennie-blog.web
 	url = git@github.com:darwinapps/bennie-blog.web.wiki.git
 	branch = master
+[submodule "bennie-design.web"]
+	path = bennie-design.web
+	url = git@github.com:darwinapps/bennie-design.web.wiki.git
+	branch = master
+[submodule "bennie.web"]
+	path = bennie.web
+	url = git@github.com:darwinapps/bennie.web.wiki.git
+	branch = master
+[submodule "benton-georgia.web"]
+	path = benton-georgia.web
+	url = git@github.com:darwinapps/benton-georgia.web.wiki.git
+	branch = master
+[submodule "copter.web"]
+	path = copter.web
+	url = git@github.com:darwinapps/copter.web.wiki.git
+	branch = master
+[submodule "darwinapps-site.web"]
+	path = darwinapps-site.web
+	url = git@github.com:darwinapps/site.wiki.git
+	branch = master
+[submodule "dresscode.web"]
+	path = dresscode.web
+	url = git@github.com:darwinapps/dresscode.web.wiki.git
+	branch = master
+[submodule "feedvisor.web"]
+	path = feedvisor.web
+	url = git@github.com:darwinapps/feedvisor.web.wiki.git
+	branch = master
+[submodule "flowerwholesale.web"]
+	path = flowerwholesale.web
+	url = git@github.com:darwinapps/flowerwholesale.web.wiki.git
+	branch = master
+[submodule "georgetown-village.web"]
+	path = georgetown-village.web
+	url = git@github.com:darwinapps/georgetown-village.web.wiki.git
+	branch = master
+[submodule "getonesiteapp.web"]
+	path = getonesiteapp.web
+	url = git@github.com:darwinapps/getonesiteapp.web.wiki.git
+	branch = master
+[submodule "gymsales.web"]
+	path = gymsales.web
+	url = git@github.com:darwinapps/gymsales.web.wiki.git
+	branch = master
+[submodule "landgorilla.web"]
+	path = landgorilla.web
+	url = git@github.com:darwinapps/landgorilla.web.wiki.git
+	branch = master
+[submodule "metricseurope.web"]
+	path = metricseurope.web
+	url = git@github.com:darwinapps/metricseurope.web.wiki.git
+	branch = master
+[submodule "numo.web"]
+	path = numo.web
+	url = git@github.com:darwinapps/numo.web.wiki.git
+	branch = master
+[submodule "social-api"]
+	path = social-api
+	url = git@github.com:darwinapps/social-api.wiki.git
+	branch = master
+[submodule "squeez.web"]
+	path = squeez.web
+	url = git@github.com:darwinapps/squeez.web.wiki.git
+	branch = master
+[submodule "storie-and-severson.web"]
+	path = storie-and-severson.web
+	url = git@github.com:darwinapps/storie-and-severson.web.wiki.git
+	branch = master
+[submodule "the-love-wire.web"]
+	path = the-love-wire.web
+	url = git@github.com:darwinapps/the-love-wire.web.wiki.git
+	branch = master
+[submodule "thehub-v2.web"]
+	path = thehub-v2.web
+	url = git@github.com:darwinapps/thehub-v2.web.wiki.git
+	branch = master
+[submodule "thehub.web"]
+	path = thehub.web
+	url = git@github.com:darwinapps/thehub.web.wiki.git
+	branch = master
+[submodule "vts-redesign.web"]
+	path = vts-redesign.web
+	url = git@github.com:darwinapps/vts-redesign.web.wiki.git
+	branch = master
+[submodule "wri-initiative20x20.web"]
+	path = wri-initiative20x20.web
+	url = git@github.com:darwinapps/wri-initiative20x20.web.wiki.git
+	branch = master
+[submodule "ymc.web"]
+	path = ymc.web
+	url = git@github.com:darwinapps/ymc.web.wiki.git
+	branch = master
+[submodule "zeplin-ceo.web"]
+	path = zeplin-ceo.web
+	url = git@github.com:darwinapps/zeplin-ceo.web.wiki.git
+	branch = master
+[submodule "zeplin.web"]
+	path = zeplin.web
+	url = git@github.com:darwinapps/zeplin.web.wiki.git
+	branch = master
