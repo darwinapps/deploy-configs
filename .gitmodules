@@ -118,3 +118,7 @@
 	path = numo.web
 	url = git@github.com:darwinapps/numo-v2.web.wiki.git
 	branch = master
+[submodule "ymc-vetmed.web"]
+	path = ymc-vetmed.web
+	url = git@github.com:darwinapps/ymc-vetmed.web.wiki.git
+	branch = master
