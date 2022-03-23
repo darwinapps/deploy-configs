@@ -122,3 +122,7 @@
 	path = ymc-vetmed.web
 	url = git@github.com:darwinapps/ymc-vetmed.web.wiki.git
 	branch = master
+[submodule "infinitimedical.web"]
+	path = infinitimedical.web
+	url = git@github.com:darwinapps/infinitimedical.web.wiki.git
+	branch = master
