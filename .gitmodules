@@ -126,3 +126,7 @@
 	path = infinitimedical.web
 	url = git@github.com:darwinapps/infinitimedical.web.wiki.git
 	branch = master
+[submodule "currencycloud.web"]
+	path = currencycloud.web
+	url = git@github.com:darwinapps/currencycloud.web.wiki.git
+	branch = master
