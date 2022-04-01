@@ -130,3 +130,7 @@
 	path = currencycloud.web
 	url = git@github.com:darwinapps/currencycloud.web.wiki.git
 	branch = master
+[submodule "zeplin-blog"]
+	path = zeplin-blog
+	url = git@github.com:darwinapps/zeplin-blog.wiki.git
+	branch = master
