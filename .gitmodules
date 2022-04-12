@@ -134,3 +134,7 @@
 	path = zeplin-blog
 	url = git@github.com:darwinapps/zeplin-blog.wiki.git
 	branch = master
+[submodule "agilityrecovery.web"]
+	path = agilityrecovery.web
+	url = git@github.com:darwinapps/agilityrecovery.web.wiki.git
+	branch = master
