@@ -142,3 +142,7 @@
 	path = thehub-static.web
 	url = git@github.com:darwinapps/thehub-static.web.wiki.git
 	branch = master
+[submodule "thehub-v3.web"]
+	path = thehub-v3.web
+	url = git@github.com:darwinapps/thehub-v3.web.wiki.git
+	branch = master
