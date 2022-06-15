@@ -146,3 +146,7 @@
 	path = thehub-v3.web
 	url = git@github.com:darwinapps/thehub-v3.web.wiki.git
 	branch = master
+[submodule "georgetown-home-care.web"]
+	path = georgetown-home-care.web
+	url = git@github.com:darwinapps/georgetown-home-care.web.wiki.git
+	branch = master
