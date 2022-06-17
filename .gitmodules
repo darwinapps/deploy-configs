@@ -150,3 +150,7 @@
 	path = georgetown-home-care.web
 	url = git@github.com:darwinapps/georgetown-home-care.web.wiki.git
 	branch = master
+[submodule "darwinapps-sanity.web"]
+	path = darwinapps-sanity.web
+	url = git@github.com:darwinapps/darwinapps-sanity.web.wiki.git
+	branch = master
