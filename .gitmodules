@@ -154,3 +154,7 @@
 	path = darwinapps-sanity.web
 	url = git@github.com:darwinapps/darwinapps-sanity.web.wiki.git
 	branch = master
+[submodule "alertmedia.web"]
+	path = alertmedia.web
+	url = git@github.com:darwinapps/alertmedia.web.wiki.git
+	branch = master
