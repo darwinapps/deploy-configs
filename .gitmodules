@@ -166,3 +166,7 @@
 	path = afr100-static.web
 	url = git@github.com:darwinapps/afr100-static.web.wiki.git
 	branch = master
+[submodule "peggydrexler.web"]
+	path = peggydrexler.web
+	url = git@github.com:darwinapps/peggydrexler.web.wiki.git
+	branch = master
