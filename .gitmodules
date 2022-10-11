@@ -170,3 +170,7 @@
 	path = peggydrexler.web
 	url = git@github.com:darwinapps/peggydrexler.web.wiki.git
 	branch = master
+[submodule "omlet.web"]
+	path = omlet.web
+	url = git@github.com:darwinapps/omlet.web.wiki.git
+	branch = master
