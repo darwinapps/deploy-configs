@@ -174,3 +174,7 @@
 	path = omlet.web
 	url = git@github.com:darwinapps/omlet.web.wiki.git
 	branch = master
+[submodule "xmas2023.web"]
+	path = xmas2023.web
+	url = git@github.com:darwinapps/xmas2023.web.wiki.git
+	branch = master
