@@ -178,3 +178,7 @@
 	path = xmas2023.web
 	url = git@github.com:darwinapps/xmas2023.web.wiki.git
 	branch = master
+[submodule "preparis.web"]
+	path = preparis.web
+	url = git@github.com:darwinapps/preparis.web.wiki.git
+	branch = master
