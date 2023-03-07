@@ -182,3 +182,7 @@
 	path = preparis.web
 	url = git@github.com:darwinapps/preparis.web.wiki.git
 	branch = master
+[submodule "p1hsinc.web"]
+	path = p1hsinc.web
+	url = git@github.com:darwinapps/p1hsinc.web.wiki.git
+	branch = master
