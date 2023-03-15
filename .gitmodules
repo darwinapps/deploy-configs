@@ -186,3 +186,7 @@
 	path = p1hsinc.web
 	url = git@github.com:darwinapps/p1hsinc.web.wiki.git
 	branch = master
+[submodule "jetasg.web"]
+	path = jetasg.web
+	url = git@github.com:darwinapps/jetasg.web.wiki.git
+	branch = master
