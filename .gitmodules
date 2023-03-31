@@ -190,3 +190,7 @@
 	path = jetasg.web
 	url = git@github.com:darwinapps/jetasg.web.wiki.git
 	branch = master
+[submodule "darwin-landing.web"]
+	path = darwin-landing.web
+	url = git@github.com:darwinapps/darwin-landing.web.wiki.git
+	branch = master
