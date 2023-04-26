@@ -194,3 +194,7 @@
 	path = darwin-landing.web
 	url = git@github.com:darwinapps/darwin-landing.web.wiki.git
 	branch = master
+[submodule "risk-tool-static.web"]
+	path = risk-tool-static.web
+	url = git@github.com:darwinapps/risk-tool-static.web.wiki.git
+	branch = master
