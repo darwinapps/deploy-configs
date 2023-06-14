@@ -198,3 +198,7 @@
 	path = risk-tool-static.web
 	url = git@github.com:darwinapps/risk-tool-static.web.wiki.git
 	branch = master
+[submodule "agilityfacelift.web"]
+	path = agilityfacelift.web
+	url = git@github.com:darwinapps/agilityfacelift.web.wiki.git
+	branch = master
