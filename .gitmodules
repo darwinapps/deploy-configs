@@ -202,3 +202,7 @@
 	path = agilityfacelift.web
 	url = git@github.com:darwinapps/agilityfacelift.web.wiki.git
 	branch = master
+[submodule "wp-da-core"]
+	path = wp-da-core
+	url = git@github.com:darwinapps/wp-da-core.wiki.git
+	branch = master
