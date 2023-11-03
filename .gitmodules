@@ -206,3 +206,7 @@
 	path = wp-da-core
 	url = git@github.com:darwinapps/wp-da-core.wiki.git
 	branch = master
+[submodule "hellosayge.web"]
+	path = hellosayge.web
+	url = git@github.com:darwinapps/hellosayge.web.wiki.git
+	branch = master
