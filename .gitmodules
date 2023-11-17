@@ -214,3 +214,7 @@
 	path = squeezee.static
 	url = git@github.com:darwinapps/squeezee.static.wiki.git
 	branch = master
+[submodule "santa-ai"]
+	path = santa-ai
+	url = git@github.com:darwinapps/santa-ai.wiki.git
+	branch = master
