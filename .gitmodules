@@ -226,3 +226,7 @@
 	path = usepmc.web
 	url = git@github.com:darwinapps/usepmc.web.wiki.git
 	branch = master
+[submodule "better-health-plan.web"]
+	path = better-health-plan.web
+	url = git@github.com:darwinapps/better-health-plan.web.wiki.git
+	branch = master
