@@ -230,3 +230,7 @@
 	path = better-health-plan.web
 	url = git@github.com:darwinapps/better-health-plan.web.wiki.git
 	branch = master
+[submodule "meandnicbrokeup.web"]
+	path = meandnicbrokeup.web
+	url = git@github.com:darwinapps/meandnicbrokeup.web.wiki.git
+	branch = master
