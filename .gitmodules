@@ -234,3 +234,7 @@
 	path = meandnicbrokeup.web
 	url = git@github.com:darwinapps/meandnicbrokeup.web.wiki.git
 	branch = master
+[submodule "goamplify.web"]
+	path = goamplify.web
+	url = git@github.com:darwinapps/goamplify.web.wiki.git
+	branch = master
