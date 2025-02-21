@@ -242,3 +242,7 @@
 	path = currencycloud-static.web
 	url = git@github.com:darwinapps/currencycloud-static.web.wiki.git
 	branch = master
+[submodule "syndio.web"]
+	path = syndio.web
+	url = git@github.com:darwinapps/syndio.web.wiki.git
+	branch = master
